@@ -1,10 +1,10 @@
-# 🧮 BMI Calculator – Android App
+#  BMI Calculator – Android App
 
 A simple Android application that calculates the Body Mass Index (BMI) of a user based on their height and weight. Built using **Java** and **XML** in **Android Studio**.
 
 ---
 
-## 📱 Features
+##  Features
 
 - Enter height and weight
 - Calculate BMI instantly
@@ -17,7 +17,7 @@ A simple Android application that calculates the Body Mass Index (BMI) of a user
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **Java** – Programming language
 - **XML** – UI Design
@@ -26,14 +26,15 @@ A simple Android application that calculates the Body Mass Index (BMI) of a user
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 
-<img src="screenshots/bmi_calculator.png" width="300"/>
+<img src="bmi1.png" width="300"/>
+<img src="bmi2.png" width="300"/>
 
 ---
 
-## 📦 Installation
+##  Installation
 
 1. Clone the repository:
    ```bash
